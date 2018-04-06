@@ -1,0 +1,4 @@
+127.0.0.1 - - [28/Nov/2016:20:15:45 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [28/Nov/2016:20:15:46 +0100] "GET /webAplikacijaCas8/registracija.jsp HTTP/1.1" 200 1238
+0:0:0:0:0:0:0:1 - - [28/Nov/2016:20:15:47 +0100] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [28/Nov/2016:20:16:13 +0100] "POST /webAplikacijaCas8/registracija HTTP/1.1" 500 1253
